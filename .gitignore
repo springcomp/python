@@ -1,0 +1,15 @@
+# Python support files
+
+.pytest_cache/
+.venv/
+__pycache__/
+
+# Python virtual environment
+
+bin/
+include/
+lib/
+lib64
+share/
+
+pyvenv.cfg
